@@ -1,0 +1,2 @@
+collection_timestamp_utc,pollution_timestamp_utc,aqi_us,main_pollutant_us,temperature_celsius,humidity_percent,wind_speed_m_s,wind_direction_degrees,weather_icon_code
+2025-07-13 14:54:29,2025-07-13T14:00:00.000Z,72,p2,28,56,3.62,221,04d
